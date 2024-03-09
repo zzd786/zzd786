@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zzd786
 - 👀 I’m interested in Artificial Intelligence & Machine Learning.
-- 🌱 I’m currently learning about GenAi, LLM's, RAG & Prompt Engineering.
-- 💞️ I’m looking to collaborate on buliding industry soultions by utilizing GenAi.
+- 🌱 I’m currently learning about GenAi, LLM's, RAG & Prompt Engineering. For example, use of LLMs for Natural Language understanding.
+- 💞️ I’m looking to collaborate on building industry soultions by utilizing GenAi.
 - 📫 How to reach me 
 - ⚡ Fun fact: ...
 
